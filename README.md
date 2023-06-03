@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Shamim Hosan</h1>
 <h3 align="center">Web Developer</h3>
 
-- 📫 How to reach me **shamimhosan02@gmail.com**
+- 📫 Reach me- **shamimhosan02@gmail.com**
 
-- 📄Check out my resume [https://drive.google.com/file/d/1iNlCjJrdVp_SnyB4JaWAw6Fv1UjCQf5Y/view?usp=sharing](https://drive.google.com/file/d/1iNlCjJrdVp_SnyB4JaWAw6Fv1UjCQf5Y/view?usp=sharing)
+- 📄Resume- [https://drive.google.com/file/d/1iNlCjJrdVp_SnyB4JaWAw6Fv1UjCQf5Y/view?usp=sharing](https://drive.google.com/file/d/1iNlCjJrdVp_SnyB4JaWAw6Fv1UjCQf5Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

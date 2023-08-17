@@ -3,7 +3,7 @@
 
 - 📫 Reach me- **shamimhosan02@gmail.com**
 
-- 📄Resume- (https://drive.google.com/file/d/1e9FORVHEhuyn0qcbPdQfBUuNF0ARS19y/view?usp=drive_link)
+- 📄Resume- ([https://drive.google.com/file/d/1e9FORVHEhuyn0qcbPdQfBUuNF0ARS19y/view?usp=drive_link](https://drive.google.com/file/d/17CsvsRn5tR3Ef9o7MpeTw3y7ryIZCixK/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

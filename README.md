@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Shamim Hosan</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">MERN Developer</h3>
 
 - 📫 Reach me- **shamimhosan02@gmail.com**
 

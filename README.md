@@ -5,7 +5,7 @@
 A passionate Frontend Developer
 </h3>
 
-- 👨‍💻 Portfolio (https://jovial-dieffenbachia-a9caa5.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jovial-dieffenbachia-a9caa5.netlify.app/)
 
 - 💬 Ask me about **React/NextJS**
 

@@ -24,7 +24,7 @@ A passionate Frontend Developer
 
 ## Connect with me
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
-<a href="https://https://discord.com/channels/shamim6393" target="_blank">
+<a href="https://https://discord.com/users/shamim6393" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2308090A.svg?&style=for-the-badge&logo=discord&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/shamim-hosan" target="_blank">

@@ -1,7 +1,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
-<h1 align="center">I'm Shamim Hosan</h1>
-<h3 align="center">
+<h1 align="left">I'm Shamim Hosan</h1>
+<h3 align="left">
 A passionate Frontend Developer
 </h3>
 

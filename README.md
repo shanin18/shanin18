@@ -23,11 +23,17 @@ A passionate Frontend Developer
 
 
 ## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/syed-shamim-hosan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-shamim-hosan" height="30" width="40" /></a>
-<a href="https://fb.com/hosanshamim52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hosanshamim52" height="30" width="40" /></a>
-<a href="https://discord.gg/shamim6393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shamim6393" height="30" width="40" /></a>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<a href="https://https://discord.com/channels/shamim6393" target="_blank">
+<img src=https://img.shields.io/badge/discord-%2308090A.svg?&style=for-the-badge&logo=discord&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/shamim-hosan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/hosanshamim52" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>
 
 
 ## Languages and Tools

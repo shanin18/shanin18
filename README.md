@@ -5,13 +5,17 @@
 A passionate Frontend Developer
 </h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jovial-dieffenbachia-a9caa5.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jovial-dieffenbachia-a9caa5.netlify.app/)  
+  <span style="color:#0077B5;">🔗</span>
 
-- 💬 Ask me about **React/NextJS**
+- 💬 Ask me about **React/NextJS**  
+  <span style="color:#0077B5;">💼</span>
 
-- 📫 Reach me at [@Email](mailto:shamimhosan02@gmail.com)
+- 📫 Reach me at [@Email](mailto:shamimhosan02@gmail.com)  
+  <span style="color:#0077B5;">✉️</span>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing)  
+  <span style="color:#0077B5;">📝</span>
 
 - ⚡ Favourite Quote **'Indeed, Allah will not change the condition of a people until they change what is in themselves.'**
 

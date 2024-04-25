@@ -1,7 +1,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
-<h1 align="left">I'm Shamim Hosan</h1>
-<h3 align="left">
+<h1 align="center">Shamim Hosan</h1>
+<h3 align="center">
 A passionate Frontend Developer
 </h3>
 
@@ -11,7 +11,7 @@ A passionate Frontend Developer
 
 - 📫 Reach me **shamimhosan02@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing&usp=embed_facebook)
+- 📄 Resume (https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing&usp=embed_facebook)
 
 - ⚡ Favourite Quote **'Indeed, Allah will not change the condition of a people until they change what is in themselves.'**
 

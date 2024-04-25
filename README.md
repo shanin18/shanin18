@@ -5,8 +5,6 @@
 A passionate Frontend Developer
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanin18" alt="shanin18" /></a> </p>
-
 - 👨‍💻 Portfolio [https://jovial-dieffenbachia-a9caa5.netlify.app/](https://jovial-dieffenbachia-a9caa5.netlify.app/)
 
 - 💬 Ask me about **React/NextJS**

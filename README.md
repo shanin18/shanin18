@@ -1,25 +1,27 @@
 ## 🚀 About Me
-<table><tr><td valign="top" width="50%">
-<h1 align="center">Shamim Hosan</h1>
-<h3 align="center">
-A passionate Frontend Developer
-</h3>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jovial-dieffenbachia-a9caa5.netlify.app/)
+  <!-- Left Column -->
+  <div style="flex: 1; padding: 20px;">
+    <h1 style="text-align: center; color: #0077B5;">Shamim Hosan</h1>
+    <h3 style="text-align: center; color: #333;">A passionate Frontend Developer</h3>
+    
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>👨‍💻 <a href="https://jovial-dieffenbachia-a9caa5.netlify.app/" style="text-decoration: none; color: #0077B5;">All of my projects are available at Portfolio</a></li>
+      <li>💬 Ask me about <strong>MERN Stack</strong></li>
+      <li>📫 Reach me at <a href="mailto:shamimhosan02@gmail.com" style="text-decoration: none; color: #0077B5;">@Email</a></li>
+      <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing" style="text-decoration: none; color: #0077B5;">Resume</a></li>
+      <li>⚡ Favourite Quote <em style="color: #555;">'Indeed, Allah will not change the condition of a people until they change what is in themselves.'</em></li>
+    </ul>
+  </div>
 
-- 💬 Ask me about **MERN Stack** 
+  <!-- Right Column -->
+  <div style="flex: 1; padding: 20px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="width: 100%; border-radius: 8px;">
+  </div>
 
-- 📫 Reach me at [@Email](mailto:shamimhosan02@gmail.com)  
+</div>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing)  
-
-- ⚡ Favourite Quote **'Indeed, Allah will not change the condition of a people until they change what is in themselves.'**
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div></td></tr></table>
 
 
 ## Connect with me

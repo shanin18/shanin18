@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Technologies**
 
-- 📫 How to reach me: Email me @, **shamimhosan02@gmail.com**
+- 📫 How to reach me:  **<a href="shamimhosan02@gmail.com">@Email</a>**
 
 - ⚡ Favourite Quote **'Indeed, Allah will not change the condition of a people until they change what is in themselves.'**
 

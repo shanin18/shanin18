@@ -5,8 +5,8 @@
 A passionate Frontend Developer
 </h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jovial-dieffenbachia-a9caa5.netlify.app/)  
-  <span style="color:#0077B5;">🔗</span>
+- 👨‍💻 All of my projects are available at  <span style="color:#0077B5; text-decoration:none">[Portfolio](https://jovial-dieffenbachia-a9caa5.netlify.app/)</span>
+  
 
 - 💬 Ask me about **React/NextJS**  
   <span style="color:#0077B5;">💼</span>

@@ -9,9 +9,9 @@ A passionate Frontend Developer
 
 - 💬 Ask me about **React/NextJS**
 
-- 📫 Reach me at [shamimhosan02@gmail.com](mailto:shamimhosan02@gmail.com)
+- 📫 Reach me at [@Email](mailto:shamimhosan02@gmail.com)
 
-- 📄 [Resume](https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view?usp=sharing)
 
 - ⚡ Favourite Quote **'Indeed, Allah will not change the condition of a people until they change what is in themselves.'**
 

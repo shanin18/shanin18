@@ -1,7 +1,10 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
-<h1 align="center">Hi 👋, I'm Shamim Hosan</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">I'm Shamim Hosan</h1>
+<h3 align="center">
+      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage">
+A passionate Frontend Developer
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanin18" alt="shanin18" /></a> </p>
 

@@ -41,13 +41,13 @@ A passionate Frontend Developer
 
 
 ## GitHub Profile Trophy
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shanin18&theme=dark" alt="shanin18" 
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shanin18&theme=onedark" alt="shanin18" 
 </p>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanin18&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanin18&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanin18&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanin18&theme=dark&utcOffset=6)  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanin18&theme=dark" alt="GitHub Profile Summary Card" style="width:100%;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanin18&theme=onedark" alt="GitHub Profile Summary Card" style="width:100%;">
 
 
       

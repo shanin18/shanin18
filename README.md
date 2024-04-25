@@ -45,8 +45,8 @@ A passionate Frontend Developer
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanin18&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanin18&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanin18&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanin18&theme=dark&utcOffset=6)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanin18&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanin18&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanin18&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanin18&theme=monokai&utcOffset=6)  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanin18&theme=monokai" alt="GitHub Profile Summary Card" style="width:100%;">
 
 

@@ -1,103 +1,171 @@
-# Shamim Hosan
+# 🚀 About Me
 
-### Software Developer | React.js • Next.js • TypeScript • Node.js
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I build modern, scalable, and user-focused web applications with a strong emphasis on performance, maintainability, and real business impact.
+<h1 align="center">Shamim Hosan</h1>
 
-With 3+ years of professional experience, I have worked on SaaS platforms, e-commerce systems, business applications, and client projects across multiple industries.
+<h3 align="center">
+Software Developer | React.js • Next.js • TypeScript
+</h3>
 
----
+<p align="left">
+Building scalable web applications, SaaS platforms, and modern digital products with a strong focus on performance, maintainability, and user experience.
+</p>
 
-## About Me
+<br/>
 
-- 💼 Software Developer with 3+ years of experience
-- ⚛️ Specialized in React.js, Next.js, JavaScript, and TypeScript
-- 🚀 Experienced in building production-ready SaaS and e-commerce applications
-- 🔗 Skilled in API integrations, authentication systems, databases, and modern deployment workflows
-- 🤖 Actively exploring AI-assisted development workflows and modern automation tools
-- 🌱 Always learning and improving through real-world projects
+* 💼 Software Developer with **3+ years of professional experience**
+* 🚀 Built and delivered **50+ client projects**
+* ⚛️ Specialized in **React.js, Next.js, TypeScript, JavaScript, and modern frontend architecture**
+* 🔗 Experienced with APIs, authentication systems, databases, and production deployments
+* 🤖 Exploring AI-assisted development workflows and modern automation tools
+* 🌱 Continuously learning through real-world product development
 
----
+<br/>
 
-## Featured Projects
+* 🌐 Portfolio: https://shamim-pi.vercel.app
 
-### Eye Solutions
-Production-ready healthcare SaaS platform featuring:
+* 📫 Reach me at: [@Email](mailto:shamimhosan02@gmail.com)
 
-- Appointment Booking
-- Doctor Management
-- Patient Records
-- Inventory Management
-- Optical Store & E-commerce
-- Role-Based Access Control
-- Reports & Analytics
+* 📄 Resume: [https://drive.google.com/file/d/1jNmv4UrHoPes1v8w4-sY2btUzlvREyd4/view](https://drive.google.com/file/d/1-uTZpRPhDUJFaHqjbIjCrJwjJDA6Q2q4/view?usp=sharing)
 
-🔗 Live Demo: https://eye-solutions.vercel.app
+* ⚡ Favourite Quote:
+  **"Indeed, Allah will not change the condition of a people until they change what is in themselves."**
 
-🔗 GitHub: https://github.com/shanin18/eye-solutions
+</td>
 
----
+<td valign="top" width="50%">
 
-### GadgetGallery
-Modern e-commerce platform focused on performance, scalability, and user experience.
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div>
 
-Features include:
-
-- Product Catalog
-- Shopping Cart
-- Checkout Experience
-- Authentication
-- Responsive Design
-- Modern UI Architecture
-
-🔗 Live Demo: https://gadgetgallery-phi.vercel.app
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## Connect with me
 
-### Frontend
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Redux Toolkit
-- Shadcn UI
+<a href="https://discord.com/users/shamim6393" target="_blank">
+<img src="https://img.shields.io/badge/discord-%2308090A.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;" />
+</a>
 
-### Backend
+<a href="https://linkedin.com/in/shamim-hosan" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
-- Node.js
-- Express.js
+<a href="https://www.facebook.com/hosanshamim52" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
 
-### Database
-
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Tools & DevOps
-
-- Git
-- GitHub
-- Docker
-- Postman
-- CI/CD
-- Vercel
+</div>
 
 ---
 
-## Connect With Me
+## Languages and Tools
 
-📧 Email: shamimhosan02@gmail.com
+<p align="left">
 
-💼 LinkedIn: https://linkedin.com/in/shamim-hosan
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
 
-🌐 Portfolio: https://shamim-pi.vercel.app
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</a>
+
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
-> "Indeed, Allah will not change the condition of a people until they change what is in themselves."
+## GitHub Profile Trophy
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=shanin18&theme=onedark" alt="shanin18" />
+</p>
+
+---
+
+## GitHub Statistics
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanin18\&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanin18\&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanin18\&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanin18\&theme=monokai\&utcOffset=6)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanin18&theme=monokai" alt="GitHub Profile Summary Card" style="width:100%;">
+
+---
+
+⭐ Thanks for visiting my profile!
